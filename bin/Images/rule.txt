@@ -1,0 +1,30 @@
+
+Rule of game Chicken shoot
+DESCRIPTION :
+	In this game, the player can become an extremely mighty warrior, 
+	alone controlling the spaceships that are flying inside the space. 
+	The noble goal that the player needs to achieve is to protect the earth, 
+	so if you can shoot and destroy the chicken army, try to destroy as many 
+	chickens and get the highest score possible.
+RULE
+	W,UP :move up
+	S,DOWN :move down;
+	A,LEFT :move left;
+	D,RIGHT :move right;
+	ESC :pause;
+	ENTER :chose;
+
+Tiếng việt:
+miêu tả:
+	Trong trò chơi này, người chơi có thể được trở thành một chiến binh cực kỳ
+ 	hùng dũng, một mình điều khiển những phi thuyền đang bay lượn bên trong không 
+	gian. Mục tiêu cao cả mà người chơi cần phải đạt được chính là bảo vệ trái đất, 
+	do đó nếu như bắn được và tiêu diệt được đội quân gà, cố gắng tiêu diệt được 
+	càng nhiều gà và dành được nhiều điểm nhất có thể 
+Luật chơi
+	W,UP :di chuyển lên trên;
+	S,DOWN :di chuyển xuống dưới;
+	A,LEFT :di chuyển sang trái;
+	D,RIGHT :di chuyển sang phải;
+	ESC :tạm dừng;
+	ENTER :chọn;
